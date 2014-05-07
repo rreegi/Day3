@@ -289,6 +289,7 @@
 				7F69D29E191A831900E81671 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

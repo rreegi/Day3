@@ -42,7 +42,10 @@
 -(void) divide:(double) value
 {
     accumulator /= value;
+    
 }
+@end
+
 int main(int argc, const char * argv[])
 {
 
