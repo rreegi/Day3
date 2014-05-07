@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>31772C81-3A65-4A68-A4D1-8C6E01AE6574</string>
+	<key>IDESourceControlProjectName</key>
+	<string>day3_1</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>10FFC734-2390-42C6-A159-73FFFD0C7E4A</key>
+		<string>https://github.com/rreegi/Day3.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Day3/day3_1/day3_1.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>10FFC734-2390-42C6-A159-73FFFD0C7E4A</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/rreegi/Day3.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>10FFC734-2390-42C6-A159-73FFFD0C7E4A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>10FFC734-2390-42C6-A159-73FFFD0C7E4A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Day3</string>
+		</dict>
+	</array>
+</dict>
+</plist>
